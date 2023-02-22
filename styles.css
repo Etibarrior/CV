@@ -87,17 +87,19 @@ a:active {
         max-width: 100%;
     }
 
-    .phone {
+    .info {
         display: flex;
+        margin: auto;
     }
 
     .avatar {
-        max-width: 100px;
+        max-width: 150px;
         border-radius: 28px;
+        margin-right: 40px;
     }
 
     .contact {
-        margin-left: 15px;
+        margin-left: 35px;
         margin-right: 5px;
     }
 
