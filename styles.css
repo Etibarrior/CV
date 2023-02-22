@@ -80,10 +80,11 @@ a:active {
     margin: 0;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 700px) {
     .container {
         display: block;
         font-size: 14px;
+        max-width: 100%;
     }
 
     .phone {
@@ -108,6 +109,7 @@ a:active {
     .name h1 {
         font-size: 30px;
         margin-right: 0px;
+        text-align: center;
     }
 
     .name {
